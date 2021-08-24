@@ -1,3 +1,5 @@
+// Eng Mouaz M. Al-Shahmeh
+ 
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class ProductModel {
